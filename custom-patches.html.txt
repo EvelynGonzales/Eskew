@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Custom Patches Services</title>
+</head>
+<body>
+  <h1>Custom Patches Services</h1>
+  <p>Welcome to Today Patches, your one-stop destination for high-quality custom patches.</p>
+  <p>At Today Patches, we offer a wide range of custom patch services to meet your specific needs. Whether you're a business, organization, or individual looking for personalized patches, we've got you covered.</p>
+  <p>Our team of skilled designers and craftsmen will work closely with you to bring your patch ideas to life. From embroidered patches to woven patches, we use top-notch materials and advanced techniques to ensure the finest quality patches.</p>
+  <p>Why choose Today Patches:</p>
+  <ul>
+    <li>Exceptional craftsmanship</li>
+    <li>Attention to detail</li>
+    <li>Quick turnaround time</li>
+    <li>Competitive pricing</li>
+  </ul>
+  <p>Ready to get started? <a href="https://todaypatches.com">Visit our website</a> today to learn more about our custom patch services and place your order.</p>
+</body>
+</html>
